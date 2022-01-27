@@ -1,0 +1,55 @@
+@font-face {
+    font-family: kathra;
+    src: url(../assets/fonts/CATHRA/CATHRA-PersonalUse.otf);
+}
+
+@font-face {
+    font-family: kathra;
+    src: url(../assets/fonts/CATHRA/CATHRA-BoldPersonal.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family:earth;
+    src: url(../assets/fonts/earth-orbiter/earthorbiter.ttf);
+}
+
+@font-face {
+    font-family:earth;
+    src: url(../assets/fonts/earth-orbiter/earthorbiterbold.ttf);
+    font-weight: bold;    
+}
+
+@font-face {
+    font-family:earth;
+    src: url(../assets/fonts/earth-orbiter/earthorbiterxtrabold.ttf);
+    font-weight:600;    
+}
+
+@font-face {
+font-family:earth3d;
+    src: url(../assets/fonts/earth-orbiter/earthorbiter3d.ttf);
+}
+
+@font-face {
+    font-family:earthacad;
+    src: url(../assets/fonts/earth-orbiter/earthorbiteracad.ttf);
+}
+
+@font-face {
+    font-family:earthtitle;
+    src: url(../assets/fonts/earth-orbiter/earthorbitertitle.ttf);
+}
+
+@font-face {
+    font-family:earthgrad;
+    src: url(../assets/fonts/earth-orbiter/earthorbitergrad.ttf);
+}
+
+@font-face {
+    font-family:earthhalf;
+    src: url(../assets/fonts/earth-orbiter/earthorbiterhalf.ttf);
+}
+
+
+
